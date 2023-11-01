@@ -133,7 +133,7 @@ public class MineSweeperApp
 
     void openCell( int[][]field, int row, int col )
     {
-        if(field[row][col]>=0 && field[row][col]<=8)
+        if(field[row][col]>=1 && field[row][col]<=8)
         {
             field[row][col] = field[row][col]+10;
         }
