@@ -27,12 +27,5 @@ This GitHub repository contains the source code for a Java-based implementation 
 **Contributions:**
 Contributions to the project are welcome. If you would like to enhance the game, improve the user interface, or fix any issues, please submit a pull request. Be sure to follow the project's coding standards and guidelines when contributing.
 
-**License:**
-This Minesweeper implementation is open-source and available under an open-source license (Specify the license type and include the license file in the repository).
-
-**Author:**
-[Your Name]
-[Your Email]
-[Your Website/Portfolio]
 
 Feel free to explore, play, and contribute to this Minesweeper project. Enjoy the classic game with a modern twist!
